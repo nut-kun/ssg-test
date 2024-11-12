@@ -1,11 +1,27 @@
 ---
-title: "Example Artwork 2"
-year: "1994"
+title: "Natural Process"
+artist: "exonemo"
+year: "2003"
+image: "../img/2.jpeg"
 ---
 
-# Example Artwork 1
+[エキソニモのインタビュー](https://rhizome.org/editorial/2018/jun/12/landscape-painting/)
 
-This is a description for **Example Artwork 1**.
+Natural Processは、 2003年頃の象徴的なGoogle検索エンジンのホームページを大きな絵画の形に変換し、その後ウェブカメラを介してデジタルメディアに戻すインスタレーション。
 
-- Year: 1994s
-- Artist: John Doe
+日本のネットアートデュオ、エキソニモ（千房けん輔と赤岩やえ）によって制作。
+
+この絵画はGoogleによって購入され、これまで一般公開されていなかったが、2019年3月10日までICC東京とネットアートアンソロジーの一部として展示された。
+
+
+![image](https://d1v7jayx2s9clc.cloudfront.net/user/pages/natural-process/09_2.jpg "image")
+
+Natural Process は、「デジタル オブジェクトに物理的なリアリティを与えたい」というシンプルな願望から始まった。エキソニモはアーティストの稲垣正幸氏に、Google ホームページの油絵とアクリル画の制作を依頼する。
+
+エキソニモがこのページを選んだのは、Googleの検索ページが「ウェブの典型的な風景」だったからだ。ソーシャルメディアが登場する前の2003年、GoogleやYahooのような検索ポータルサイトがウェブサーフィンを始める出発点だった。
+エキソニモがGoogleのホームページを選んだのは、それが彼らにとって日常的な検索エンジンだったからだ。そこには特別な感情や連想は伴わず、自宅の窓から見える風景と同じくらいありふれたものだった。
+出来上がった絵は「ウェブページ」と題された。
+
+![image](https://d1v7jayx2s9clc.cloudfront.net/user/pages/natural-process/07_2.jpg "image")
+
+また、この作品はネットワークという媒体の側面を可視化しており、2004年と2018年のバージョンを比較することでさらに明確になる。2004年のバージョンでは帯域幅の変動により画質が刻々と変化していたが、2018年の作品では高い忠実度で表現されている。

@@ -1,0 +1,53 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./app/Timeline.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************/
+.Timeline_container__3BjKT {
+    padding: 40px;
+    background-color: #fafafa;
+    border-radius: 10px;
+    max-width: 800px;
+    margin: 40px auto;
+}
+
+.Timeline_title__yFFoQ {
+    font-size: 2rem;
+    color: #333;
+    text-align: center;
+}
+
+.Timeline_list__AIviE {
+    list-style-type: none;
+    padding: 0;
+}
+
+.Timeline_listItem__vSDe9 {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.Timeline_listItem__vSDe9:hover {
+    background-color: #e9ecef;
+}
+
+.Timeline_link__iCFT3 {
+    text-decoration: none;
+    color: #0070f3;
+}
+
+.Timeline_link__iCFT3:hover {
+    text-decoration: underline;
+}
+
+.Timeline_previewImage__tioeV {
+    width: 100px;
+    height: auto;
+    border-radius: 4px;
+    margin-left: auto;
+}

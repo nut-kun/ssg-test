@@ -1,0 +1,45 @@
+.container {
+    /* text-align: center; */
+    padding: 40px 70px 0px 70px;
+    margin: 20px;
+}
+
+.title {
+    font-size: 2rem;
+    color: #333;
+}
+
+.year {
+    margin-bottom: 40px;
+}
+
+.markdown {
+    text-align: left;
+    line-height: 1.6;
+}
+
+.img {
+    max-width: 30%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.markdown p {
+    margin-bottom: 1.5em;
+}
+
+.link {
+    color: #0070f3;
+    text-decoration: none;
+    /* リンクの下線を消す */
+}
+
+.link:hover {
+    text-decoration: underline;
+    /* ホバー時に下線を表示 */
+}
+
+.image {
+    width: 500px;
+}
